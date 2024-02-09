@@ -1,0 +1,14 @@
+name: "."
+title: "Treasured Moments"
+description: |
+  Treasured Moments
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "decorations" 
+      href: decorations.html
+output: distill::distill_article

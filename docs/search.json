@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-02-23T12:34:49+00:00"
+    },
+    {
+      "path": "decorations.html",
+      "title": "Decorations",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n![ti\n\n\n\n",
+      "last_modified": "2024-02-23T12:34:50+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Treasured Moments",
+      "author": [],
+      "contents": "\n\n          \n          \n          Treasured Moments\n          \n          \n          Home\n          About\n          decorations\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Treasured Moments\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Introduction\n            Hello! Welcome to Treasured Moments. My name is Maryam\n            Patel. On my website you can purchase anything from\n            different colors to different designs for different\n            events.You can also treasure beautiful moments with your\n            family and friends.\n            \n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Treasured Moments\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              Hello! Welcome to Treasured Moments. My name is Maryam\n              Patel. On my website you can purchase anything from\n              different colors to different designs for different\n              events.You can also treasure beautiful moments with your\n              family and friends.\n              \n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-02-23T12:34:51+00:00"
+    }
+  ],
+  "collections": []
+}
