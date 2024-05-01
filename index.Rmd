@@ -1,6 +1,6 @@
 ---
 title: "Treasured Moments"
-image: "Images/logo.png"
+image: "Images/LOGO 2.jpg"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: 'https://twitter.com/R_Girls_School target="_blank"'

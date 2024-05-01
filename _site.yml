@@ -7,8 +7,9 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Decorations" 
+      href: Decorations.html
     - text: "About"
       href: about.html
-    - text: "decorations" 
-      href: decorations.html
 output: distill::distill_article
+theme: my_theme.css

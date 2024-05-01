@@ -1,53 +1,86 @@
 ---
 title: "Decorations"
-description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: "`r Sys.Date()`"
-output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
-
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
 
 
 
-![title of image](Images/baby shower box kit blue.jpg)
-![title of image](Images/baby shark decor set.jpg)
-![title of image](Images/baby decoration picture 1.jpg)
-![title of image](Images/Baby shower box kit.jpg)
-![title of image](Images/Barbie decor set.jpg)
-![title of image](Images/celebrate pic 1.jpg)
-![title of image](Images/blue 13th deocr set.jpg)
-![title of image](Images/decor.jpg)
-![title of image](Images/frozen decor set.jpg)
-![title of image](Images/game on decor set.jpg)
-![title of image](Images/lego blockes decor set.jpg)
-![title of image](Images/lego city decor set.jpg)
-![title of image](Images/micky mouse decor set.jpg)
-![title of image](Images/minecraft decor set.jpg)
-![title of image](Images/minnie mouse decor set.jpg)
-![title of image](Images/paw patrol decor set.jpg)
-![title of image](Images/princess decoe set.jpg)
-![title of image](Images/red petals.jpg)
-![title of image](Images/safsri decor set.jpg)
-![title of image](Images/sonic decor set.jpg)
-![title of image](Images/spiderman decor set.jpg)
-![title of image](Images/star wars decor set.jpg)
-![title of image](Images/summer vibes decor set.jpg)
-![title of image](Images/table decor photo.jpg)
-![ti![title of image](Images/tropical decor set.jpg)
-![title of image](Images/welcome baby girl banner.jpg)
+![](Images/baby shower box kit blue.jpg){width=30%}
+Baby boy party decor £15.99
 
+![title of image](Images/baby shark decor set.jpg){width=30%}
+Baby Shark Decor Set 16 guests £16.99
+
+![title of image](Images/baby decoration picture 1.jpg){width=30%}
+Baby decor set £10.99
+
+![title of image](Images/Baby shower box kit.jpg){width=30%}
+ Baby Girl decor set £15.99
+ 
+![title of image](Images/Barbie decor set.jpg){width=30%}
+Barbie decor set for 16 guests £18.99
+
+![title of image](Images/celebrate pic 1.jpg){width=30%}
+  Celebrate! Decor set for 16 guests £15.99
+
+![title of image](Images/blue 13th deocr set.jpg){width=30%}
+13th Birthday decor set £16.99
+
+
+![title of image](Images/frozen decor set.jpg){width=30%}
+Frozen decor set for 15 guests £15.99
+
+![title of image](Images/game on decor set.jpg){width=30%}
+Game On Personalized decor set £18.99
+
+![title of image](Images/lego blockes decor set.jpg){width=30%}
+Part Time! decor set. 16 guests £15.99
+
+![title of image](Images/lego city decor set.jpg){width=30%}
+Lego city decor set 16 guests. £16.99
+
+![title of image](Images/micky mouse decor set.jpg){width=30%}
+Micky Mouse decor set 16 guests. £16.99
+
+![title of image](Images/minecraft decor set.jpg){width=30%}
+ Minecraft decor set 16 guests. £16.00
+ 
+![title of image](Images/minnie mouse decor set.jpg){width=30%}
+Minnie mouse decor set 16 guests £17.99
+
+![title of image](Images/paw patrol decor set.jpg){width=30%}
+Paw Patrol decor set 16 guests. £16.99
+
+![title of image](Images/princess decoe set.jpg){width=30%}
+Princess decor set 16 guests. £16.99
+
+![title of image](Images/red petals.jpg){width=30%}
+Rose Petals £5.99
+
+![title of image](Images/safsri decor set.jpg){width=30%}
+Safari decor set 16 guests. 17.99
+
+![title of image](Images/sonic decor set.jpg){width=30%}
+Sonic decor set 16 guests. £16.00
+
+![title of image](Images/spiderman decor set.jpg){width=30%}
+Spiderman decor set 16 quests. £17.00
+
+![title of image](Images/star wars decor set.jpg){width=30%}
+Star wars decor set 16 guests. £16.99
+
+![title of image](Images/summer vibes decor set.jpg){width=30%}
+Summer Vibes decor set £ 12.99
+
+![ti![title of image](Images/tropical decor set.jpg){width=30%}
+Tropical decor set 15 guests. £15.00
+
+![title of image](Images/welcome baby girl banner.jpg){width=30%}
+Welcome Baby girl banner. £4.99
 
 
 
