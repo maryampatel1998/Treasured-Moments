@@ -80,14 +80,14 @@ d-appendix {
 
   .btn-outline-dark {
         background-color: #048b8b; 
-        color: rgba(195, 74, 121);
+        color: rgba(1, 121, 117);
         border: 1px solid;
-        border-color: rgba(195, 74, 121);
+        border-color: rgba(1, 121, 117);
     }
     
 
     .btn-outline-dark:hover {
-        background-color: rgba(195, 74, 121);
-        border-color: rgba(195, 74, 121);
-        color: white;
+        background-color: rgba(0, 102, 94);
+        border-color: rgba(0, 102, 94);
+        color:blue
     }
