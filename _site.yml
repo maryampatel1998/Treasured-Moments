@@ -5,7 +5,7 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "index"
+    - text: "Home"
       href: index.html
     - text: "Decorations" 
       href: decorations.html
